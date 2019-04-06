@@ -23,7 +23,7 @@ of this node are the words that can follow in the next step
 ## Instructions
 Execute the file ladders.jar which takes
 the two words as arguments like this:
-`java -jar ladders.jar startword goalword`
+>`java -jar ladders.jar startword goalword`
 
 ## Output Files
 1. output 1.txt – the answer to croissant – baritone
