@@ -30,3 +30,11 @@ the two words as arguments like this:
 2. output 2.txt – the answer to crumpet – treacle
 3. output 3.txt – the answer to apple – pear
 4. output 4.txt – the answer to lead – gold
+
+## Sample Output
+> `croissant
+arsonist
+aroints
+notaries
+baritones
+baritone`
